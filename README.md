@@ -14,3 +14,5 @@ Historical data files: https://www.epa.gov/toxics-release-inventory-tri-program/
 # RSEI model
 https://www.epa.gov/rsei
 
+# PR Air Monitoring Network Plan 2021
+https://www.drna.pr.gov/wp-content/uploads/2022/05/PR-Network-Plan-2021.pdf
